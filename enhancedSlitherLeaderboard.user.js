@@ -7,6 +7,7 @@
 // @match        http://slither.io/
 // @icon         https://www.google.com/s2/favicons?domain=slither.io
 // @grant        none
+// @license GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // ==/UserScript==
 
 /* global snake */
